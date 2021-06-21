@@ -1,0 +1,15 @@
+{
+  "name": "main-color",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "get-image-colors": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Noah Perry",
+  "license": "GPL-3.0",
+  "description": "Get the main color of an image"
+}
